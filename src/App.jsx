@@ -2,7 +2,7 @@ import React from 'react'
 import Dashboard from './pages/Dashboard'
 const App = () => {
   return (
-    <div>
+    <div route='/cryptodashboard'>
       <Dashboard/>
     </div>
   )

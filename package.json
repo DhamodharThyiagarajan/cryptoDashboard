@@ -1,5 +1,6 @@
 {
   "name": "cryptodashboard",
+  "homepage": "https://dhamodharthyiagarajan.github.io/e-commerce",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,9 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "start": "node server.js",
-    "heroku-postbuild": "npm run build"
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
